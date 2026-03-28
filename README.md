@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1c1c1c&height=180&text=Kang%20SeongJae&fontColor=cccccc)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:2c2c2c&height=200&section=header&text=Kang%20SeongJae&fontSize=45&fontColor=ffffff&animation=fadeIn)
 ## 안녕하세요. 강성재입니다.
 ⛪ Hongik Univ. Mechanical System Design Engineering / Computer Engineering (2020.03 ~ 2026.08)
 
@@ -35,7 +35,7 @@
 
 ### ML / DL / RL
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv5/v8-00FFFF?style=flat-square&logo=opencv&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLOv8/v11-00FFFF?style=flat-square&logo=opencv&logoColor=black)
 ![PPO](https://img.shields.io/badge/PPO-FF6F00?style=flat-square&logo=reinforcement-learning&logoColor=white)
 ![Transformer](https://img.shields.io/badge/Transformer-8A2BE2?style=flat-square)
 ![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square)
