@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1c1c1c&height=180&text=Kang%20SeongJae&fontColor=cccccc)
 ## 안녕하세요. 강성재입니다.
 ⛪ Hongik Univ. Mechanical System Design Engineering / Computer Engineering (2020.03 ~ 2026.08)
 
