@@ -1,11 +1,11 @@
 ## 안녕하세요. 강성재입니다.
-Hongik Univ. Mechanical System Design Engineering / Computer Engineering (2020.03 ~ 2026.08)
+⛪ Hongik Univ. Mechanical System Design Engineering / Computer Engineering (2020.03 ~ 2026.08)
 
-Hyundai AutoEver Mobility SW School (2025.12 ~ 2026.06)
+⛪ Hyundai AutoEver Mobility SW School (2025.12 ~ 2026.06)
 
-Interest : Robotics, Machine&Deep&Reinforcement Learning, Autonomous Driving, Smart Factory
+⁉️ Interest : Robotics, Machine&Deep&Reinforcement Learning, Autonomous Driving, Smart Factory
 
-Opic : IH (2026.03.08)
+🆎 Opic : IH (2026.03.08)
 
 ---
 
