@@ -46,8 +46,6 @@
 
 ## 📋 Projects
 
-- [🕷️ **LLM을 활용한 헥사포드 험지 보행 강화학습(2025.03 ~ 2025.10)**]
-(https://github.com/bingdeo/hexapod_rl)
+- [🕷️ **LLM을 활용한 헥사포드 험지 보행 강화학습(2025.03 ~ 2025.10)**](https://github.com/bingdeo/hexapod_rl)
 
-- [🚔 **KAIST 모빌리티 대회 (2025.12 ~ 2026.2)**]
-(https://github.com/bingdeo/Kaist_Mobility_Challenge)
+- [🚔 **KAIST 모빌리티 대회 (2025.12 ~ 2026.2)**](https://github.com/bingdeo/Kaist_Mobility_Challenge)
