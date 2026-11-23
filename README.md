@@ -8,6 +8,8 @@
 
 🆎 Opic : IH (2026.03.08)
 
+📖 Certification : ADsP (2026.11.20)
+
 ---
 
 <br>
@@ -51,3 +53,12 @@
 - [🚔 **KAIST 모빌리티 대회 (2025.12 ~ 2026.2)**](https://github.com/bingdeo/Kaist_Mobility_Challenge)
 
 - [🎛️ **통합 차량 제어기 SW 프로젝트(2026.08)**](https://github.com/bingdeo/ControllerSW)
+
+- [🖥️ **에너지 사용량 기반 스마트팩토리 통합 관제 시스템**](https://github.com/HYUNDAI-SW-school-smartfactory/smart-factory-scada)
+
+- [💻 **프레스 공정 스마트 팩토리 MES 대시보드 시스템**](https://github.com/HYUNDAI-SW-school-smartfactory/smart-factory-mes)
+
+- [🏭 **Unreal Engine 5 기반의 Genesis 자동차 조립 라인 디지털 트윈 프로젝트**](https://github.com/HYUNDAI-SW-school-smartfactory/unreal-assembly-digital-twin)
+
+- [🚜 **조건부 활성화 정책의 안전 검증 프레임워크 연구**](https://github.com/InHyunseo/tar-framework)
+
