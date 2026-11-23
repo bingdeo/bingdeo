@@ -4,6 +4,8 @@
 
 ⛪ Hyundai AutoEver Mobility SW School (2025.12 ~ 2026.06)
 
+⛪ Hanyang Univ. Industrial Data Engineering (2027.03 ~ ing)
+
 ⁉️ Interest : Robotics, Machine&Deep&Reinforcement Learning, Autonomous Driving, Smart Factory
 
 🆎 Opic : IH (2026.03.08)
